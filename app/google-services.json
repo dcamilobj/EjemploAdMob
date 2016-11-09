@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382056735423",
+    "firebase_url": "https://ejemploads.firebaseio.com",
+    "project_id": "ejemploads",
+    "storage_bucket": "ejemploads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382056735423:android:7f667725a6b742f6",
+        "android_client_info": {
+          "package_name": "co.edu.udea.compumovil.ejemploadmob164"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382056735423-3le5oiabksg9hchtcdnc9h2ckaa6k2d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NbstSFOBnOJNsVZ4MfUZATLU8e0fayk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
